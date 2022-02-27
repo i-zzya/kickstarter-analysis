@@ -1,3 +1,11 @@
+# Module 1
+
+
+
+
+
+
+
 # Analysis Preformed on Kickstarter Data Set
 
 
@@ -11,4 +19,4 @@ While analyzing over thousands of different kickstarter projects, our primary fo
 Based on our findings Louise is likely to run a successful Theater Campaign kicking it off at the beginning of summer. 
 
 
-# Module 1
+
