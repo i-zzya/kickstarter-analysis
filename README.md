@@ -1,7 +1,9 @@
 # Module 1
 
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99618784/155897479-0038c9da-f1a6-4a36-8ba4-917f15c46528.png)
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99618784/155897477-f837b590-52bc-4504-a518-05b5fbb00880.png)
 
 
 
