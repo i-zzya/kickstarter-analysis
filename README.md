@@ -5,13 +5,12 @@ In a previous analysis we helped Louise determine if Theater campaigns were succ
 ## Analysis and Challenges
 
 ### Theater Outcomes by Launch Date
-In order to find the outcomes by launch date we created a pivot table and filtered our dataset by "Parent Category" and "Years". We then selected "Theater" as the only category we are analyzing data for sorted the outcomes in descending order. Finally, to present our data we used a line chart (with markers) to show that "Theater" campaigns were most successful when launced in May followed closely by June. 
+In order to find the outcomes by launch date we created a pivot table and filtered our dataset by "Parent Category" and "Years". We then selected "Theater" as the only category we are analyzing data for sorted the outcomes in descending order. Finally, to present our data we used a line chart (with markers) to show the relationship between succesful, failed, canceled campaigns and their launch dates. 
 
 
-![pivottable mod1](https://user-images.githubusercontent.com/99618784/156445275-68bc41eb-d4a6-476a-aaba-5d99dfa7a980.png)
+![pivottable mod1](https://user-images.githubusercontent.com/99618784/156447999-99caf4b5-4e2c-42d3-b60f-5b12bdefa4c7.png)
+![Theater_Outcomes_vs_Launch-2](https://user-images.githubusercontent.com/99618784/156448001-29589d2b-54d4-494b-b2f2-fd83231e488c.png)
 
-
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99618784/155897479-0038c9da-f1a6-4a36-8ba4-917f15c46528.png)
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99618784/155897477-f837b590-52bc-4504-a518-05b5fbb00880.png)
 
