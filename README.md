@@ -1,4 +1,13 @@
-# Module 1
+# KickStarter Outcomes
+## Project Rundown
+In a previous analysis we helped Louise determine if Theater campaigns were successful enough for her to launch a project. Our findings determined Theater campaigns were successful and this led Louise to make an informed decision about her personal project "Fever". She came close to her funding goal in a short amount of time and now wanted to know of launch date vs. funding goals outcomes. 
+
+## Analysis and Challenges
+
+### Theater Outcomes by Launch Date
+In order to find the outcomes by launch date we created a pivot table and filtered our dataset by "Parent Category" and "Years". We then selected "Theater" as the only category we are analyzing data for sorted the outcomes in descending order. Finally, to present our data we used a line chart (with markers) to show that "Theater" campaigns were most successful when launced in May followed closely by June. 
+
+
 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99618784/155897479-0038c9da-f1a6-4a36-8ba4-917f15c46528.png)
