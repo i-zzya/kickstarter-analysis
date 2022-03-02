@@ -26,8 +26,19 @@ Number Canceled:
 
 =COUNTIFS(Kickstarter!$F:$F,"canceled",Kickstarter!$D:$D,"<1000",Kickstarter!$R:$R,"plays")
 
-
+Again we used a line chart to best visualize our findings. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99618784/155897477-f837b590-52bc-4504-a518-05b5fbb00880.png)
+
+### Challenges
+My only challenge was figuring out the correct formula in Excel to output the percentages. Having the proper placement or right characters and not get an error code was time consuming but practice makes perfect. 
+
+## Results
+
+After looking over our cleaned data we have come to the conclusion that the best time to launch a "Theater" campagin is May followed by June. With that being said, May is also the failed launch date for the campagin overall. The Summer season (May through August) has the most failed campagins followed by a spike in October. 
+
+
+
+
 
 
 
