@@ -11,6 +11,21 @@ In order to find the outcomes by launch date we created a pivot table and filter
 ![pivottable mod1](https://user-images.githubusercontent.com/99618784/156447999-99caf4b5-4e2c-42d3-b60f-5b12bdefa4c7.png)
 ![Theater_Outcomes_vs_Launch-2](https://user-images.githubusercontent.com/99618784/156448001-29589d2b-54d4-494b-b2f2-fd83231e488c.png)
 
+### Outcomes Based on Goal
+Using Excel functions we were able to create formulas to get percentages for successful, failed, and canceled plays based on the amount of the funding goal. With the number of outcomes as our headers and goal amount as our rows, we used the following formuals: 
+
+Number Successful: 
+
+=COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$R:$R,"plays")
+
+Number Failed: 
+
+=COUNTIFS(Kickstarter!$F:$F,"failed",Kickstarter!$D:$D,"<1000",Kickstarter!$R:$R,"plays")
+
+Number Canceled:
+
+=COUNTIFS(Kickstarter!$F:$F,"canceled",Kickstarter!$D:$D,"<1000",Kickstarter!$R:$R,"plays")
+
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99618784/155897477-f837b590-52bc-4504-a518-05b5fbb00880.png)
 
